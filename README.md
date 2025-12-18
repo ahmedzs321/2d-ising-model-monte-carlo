@@ -101,3 +101,4 @@ Wayne State University
 ## 📎 Notes
 
 This project was completed as part of coursework in thermodynamics and statistical physics. The Ising model and Monte Carlo methods were chosen to illustrate how numerical simulation complements analytical theory in modern physics.
+
