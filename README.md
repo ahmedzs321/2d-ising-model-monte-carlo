@@ -90,9 +90,7 @@ Full citations are provided in the accompanying paper.
 
 ## ✍️ Author
 
-**Ahmed Syed**
-Department of Physics
-Wayne State University
+  Ahmed Syed - Department of Physics - Wayne State University
 
 ---
 
