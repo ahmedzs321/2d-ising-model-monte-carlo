@@ -70,9 +70,9 @@ Just run the code from inside an IDE or from a folder directly, using powershell
 python 2D_ising_model_monte_carlo.py
 ```
 **Requirements:**
-Python 3
-NumPy
-Matplotlib
+- Python 3
+- NumPy
+- Matplotlib
 
 ---
 
@@ -81,9 +81,7 @@ Matplotlib
 Key references used in this project include:
 
 - Introductory texts on Monte Carlo simulation
-
 - Lecture notes on the Ising model
-
 - Analytical results by Onsager for the 2D Ising model
 
 Full citations are provided in the accompanying paper.
